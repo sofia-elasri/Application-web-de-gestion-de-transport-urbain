@@ -1,0 +1,107 @@
+body{
+  background-image:url(images/tttttt.jpg);
+  background-size: 100%;
+  font-family: monospace;
+}
+i{
+	margin-left:350px;
+	font-size: 16px;
+}
+.Cs{
+	font-size: 30px;
+	text-align: center;
+	margin-top: 180px;
+	padding-top:50px
+}
+.D{
+	width: 400px;
+	height: 400px;
+	margin-left:200px;
+	margin-right:200px;
+	text-align: center;
+	padding-left:50px;
+   padding-right:50px;
+   background-color:rgba(255,165,0,0.5);
+}
+h5{
+	color:yellow;
+	text-align: center;
+	font-size: 25px;
+	margin-bottom:4px;
+	margin-top: 3px;
+
+}
+.sel{
+	color: yellow;
+	width:200px;
+	background-color:black;
+	height: 30px;
+	margin-top:15px;
+	text-align: center;
+}
+.sel:hover{
+	background-color:orange;
+	color: black;
+	font-size: 20px;
+}
+
+.D1{
+	float: left;
+	width: 200px;
+	margin-top: 95px;
+	
+	
+}
+/*.D2{
+	float: right;
+	width: 200px;
+	margin-top: 95px;
+	
+}*/
+
+table{
+ 	background-color:rgba(255,165,0,0.5);
+ 	/*width:400px;*/
+ 	text-align: center;
+ 	margin-left: 500px;
+}
+.D3{
+ 	color:yellow;
+ 	background-color:rgba(0,0,0,0.5);
+ 	text-align: center;
+ 	margin-left:400px;
+ 	margin-right: 400px;
+ 	margin-top: 50px;
+ 	font-size: 16px;
+ }
+ .D4{
+	color: orange;
+	font-size:20px;
+	background-color: black;
+}
+.TD{
+ 	font-size: 19px;
+ 	background-color: orange;
+ 	color: black;
+ 	text-align: center;
+ }
+ .TD:hover{
+ 	background-color: black;
+ 	color: yellow;
+ }
+input{
+	width: 100px;
+	height: 35px;
+	font-size: 15px;
+	background-color: black;
+	color: yellow;
+	/*margin-left: 100px;*/
+
+}
+/*	background-color:orange;
+	color: black;
+	font-size: 20px;
+}*/
+.DT{
+ 	font-size:20px;
+ }

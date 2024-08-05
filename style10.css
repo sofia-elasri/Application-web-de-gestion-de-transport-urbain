@@ -1,0 +1,51 @@
+body{
+  background-image:url(images/tttttt.jpg);
+  background-size: 100%;
+  font-family: monospace;
+}
+#menu ul {
+ margin:0;
+ padding:0;
+ list-style-type:none;
+ m
+ }
+#menu li {
+ /*argin-left:50px;*/
+  margin-right:0px;
+ width:25%;
+ float:left;
+ /*margin:auto;*/
+ padding:0;
+ background-color:rgba(255,165,0,0.5);
+
+ }
+#menu li a {
+ 
+ text-align: center;
+ display:block;
+ /*width:100px;*/
+ color:black;
+ text-decoration:none;
+ padding:9px;
+ font-size:20px;
+ }
+#menu li a:hover {
+ color:#FFD700;
+ background-color: black;
+ }
+ /*#menu ul li ul {
+ display:none;
+ }*/
+ /*#menu ul li:hover ul {
+ display:block;
+ }*/
+/*#menu li:hover ul li {
+ float:none;
+ }*/
+ /*#menu li ul {
+ position:relative;
+ }*/
+ #menu {
+ width: 100%;
+ height:55px;
+ }
